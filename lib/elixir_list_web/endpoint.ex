@@ -7,7 +7,7 @@ defmodule ElixirListWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_elixir_list_key",
-    signing_salt: "s8OcDoMu",
+    signing_salt: "o5d/yKyBWYRGGmlWIjo+mBcnveAxO7kBA7M6kaBm6FbdKOvHAqgnjpK4inQUO6vi",
     same_site: "Lax"
   ]
 

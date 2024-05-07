@@ -20,7 +20,7 @@ config :elixir_list, ElixirListWeb.Endpoint,
     layout: false
   ],
   pubsub_server: ElixirList.PubSub,
-  live_view: [signing_salt: "9oNqNlRe"]
+  live_view: [signing_salt: "XK0zSpquA+OIeWjA9JjOfTf1YcQZGmejzAogiCDBVAX0KaXBtg5PvoOMGGcN4iYN"]
 
 # Configures the mailer
 #
